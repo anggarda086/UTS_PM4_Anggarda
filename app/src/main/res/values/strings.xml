@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">anggarda</string>
+    <string name="tv_title">CLASSROOM</string>
+    <string name="tv_greetings">Hi, Anggarda</string>
+    <string name="tv_greetings2">Welcome Back To Your Class</string>
+    <string name="tv_name">Anggarda</string>
+    <string name="today">Today Classes</string>
+    <string name="gotohome">Today Classes</string>
+    <string name="liveclass">Live Class</string>
+</resources>
